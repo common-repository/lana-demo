@@ -1,0 +1,7 @@
+#login .demo-login-message {
+    padding: 25px;
+    margin-bottom: 20px;
+    background: #fff;
+    -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, .13);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .13);
+}
